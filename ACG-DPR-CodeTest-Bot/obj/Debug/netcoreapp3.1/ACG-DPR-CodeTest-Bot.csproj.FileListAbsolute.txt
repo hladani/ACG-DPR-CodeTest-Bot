@@ -29,7 +29,6 @@ C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\bin\Deb
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.csprojAssemblyReference.cache
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.AssemblyInfoInputs.cache
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.AssemblyInfo.cs
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.csproj.CoreCompileInputs.cache
