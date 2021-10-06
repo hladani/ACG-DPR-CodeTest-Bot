@@ -42,3 +42,4 @@ C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Deb
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.dll
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.pdb
 C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.genruntimeconfig.cache
+C:\Users\hjladani\Source\Repos\ACG-DPR-CodeTest-Bot\ACG-DPR-CodeTest-Bot\obj\Debug\netcoreapp3.1\ACG-DPR-CodeTest-Bot.csprojAssemblyReference.cache
